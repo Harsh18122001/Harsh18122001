@@ -8,8 +8,8 @@
 ---
 
 - 🌱 I’m currently pursuing **B.Tech in Electronics and Communication Engineering** at IIIT Bhagalpur.
-- 💬 Ask me about **React, Node.js, Data Structures, Problem-Solving, and Team Leadership**
-- 📫 How to reach me: **harshpoddar76@email.com**
+- 💬 Ask me about **Node.js, Javascript, Python, C/C++, Data Structures, Problem-Solving, and Team Leadership**
+- 📫 How to reach me: **harshpoddar919@gmail.com**
 
 ---
 
